@@ -1,0 +1,2 @@
+delay.c:9:14:DWT_Delay_Init	0	static,ignoring_inline_asm
+delay.c:35:10:DWT_Delay_ms	16	static

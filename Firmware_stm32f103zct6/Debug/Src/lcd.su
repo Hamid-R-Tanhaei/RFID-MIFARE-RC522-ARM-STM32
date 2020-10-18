@@ -1,0 +1,7 @@
+lcd.c:2:6:send_command	16	static
+lcd.c:13:6:lcd_putchar	16	static
+lcd.c:24:6:lcd_init	8	static
+lcd.c:33:6:lcd_puts	16	static
+lcd.c:43:6:lcd_puts_long	24	static
+lcd.c:81:6:lcd_gotoxy	16	static
+lcd.c:100:6:lcd_clear	8	static
